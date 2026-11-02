@@ -1,0 +1,8 @@
+# Contract Review and Approval Policy
+Document ID: LEG-003 | Version: 1.0 | Status: Approved | Effective: 1 January 2026
+
+All contracts creating a commercial obligation must be reviewed by Legal before signature, except standard low-risk purchase orders covered by an approved template and procurement process.
+
+Contracts above EUR 25,000 require Finance review. Contracts involving personal data, confidential customer information, or production-system access require Information Security and Data Protection review. Contracts longer than three years require Legal Director approval.
+
+Only employees listed in the current Delegation of Authority register may sign contracts. Purchase approval does not itself authorize an employee to sign a contract.

@@ -1,0 +1,10 @@
+# Data Quality Incident — Post-Incident Review
+Document ID: PM-019 | Version: 1.0 | Status: Approved | Review date: 20 September 2026
+
+During Project Orion validation, duplicate and malformed telemetry records were found in two source feeds. The issue reduced confidence in several analytics dashboards and contributed to a three-week delay in the analytics workstream.
+
+Contributing factors included inconsistent field formats, duplicate records not caught by automated validation, and unclear ownership of a shared reference field.
+
+Corrective actions: standardize field definitions, add duplicate detection, introduce a quality gate before data enters production analytics, and have site data owners validate remediated records. The project manager tracks actions and escalates overdue items.
+
+This postmortem explains a contributing cause of delay but does not replace the current project status report.

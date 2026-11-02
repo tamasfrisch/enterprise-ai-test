@@ -1,0 +1,8 @@
+# Standard Service-Level Agreement Summary
+Document ID: OPS-011 | Version: 1.0 | Status: Approved | Effective: 1 January 2026
+
+The standard support service is available Monday to Friday, 08:00–18:00 Central European Time, excluding public holidays, unless a signed customer contract specifies otherwise.
+
+Standard contractual response targets: Priority 1, one hour; Priority 2, four business hours; Priority 3, one business day; Priority 4, three business days. Response time means acknowledgement and start of assessment, not resolution time.
+
+A signed customer contract takes precedence where it explicitly specifies a different support commitment. Consult the relevant signed contract before making customer-specific commitments.

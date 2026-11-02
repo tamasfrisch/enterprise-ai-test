@@ -1,0 +1,8 @@
+# Customer Support Operating Policy
+Document ID: OPS-010 | Version: 1.0 | Status: Approved | Effective: 1 January 2026
+
+Customer support cases must be recorded in the approved ticketing system. Tickets should include the customer, affected product, observed behavior, business impact, timestamps, and relevant troubleshooting evidence. Customer secrets and unnecessary personal data must not be copied into ticket descriptions.
+
+Internal acknowledgement targets are Priority 1 within 30 minutes, Priority 2 within four business hours, and Priority 3 within one business day. These are internal targets and do not replace contractual service-level commitments. Priority assignments are based on impact and urgency, not customer seniority alone.
+
+Suspected data exposure or security compromise must be routed immediately to IT Security as well as the support lead.

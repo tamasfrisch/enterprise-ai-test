@@ -1,0 +1,12 @@
+# Data Classification and Handling Policy
+Document ID: SEC-007 | Version: 1.0 | Status: Approved | Effective: 1 January 2026
+
+Nordstar classifies information as:
+1. Public: approved for unrestricted external release.
+2. Internal: routine company information for employees and approved contractors.
+3. Confidential: sensitive business information requiring restricted access.
+4. Restricted: highly sensitive information, including regulated personal data, credentials, and certain customer datasets.
+
+Information owners assign classifications. Confidential and Restricted information may be shared only with authorized recipients using approved systems. Restricted information must be encrypted in transit and at rest where supported by the approved platform.
+
+Employees must not enter Confidential or Restricted data into public AI services. Approved enterprise AI tools may be used only under the AI usage standard and data-owner authorization. Suspected misclassification or disclosure must be reported to Information Security.

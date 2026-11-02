@@ -1,0 +1,8 @@
+# Nordstar Industrial Systems GmbH — Company Overview
+Document ID: CORP-001 | Version: 1.0 | Status: Approved | Effective: 1 January 2026
+
+Nordstar Industrial Systems GmbH is a fictional mid-sized industrial technology company headquartered in Munich, Germany. It designs, integrates, and services industrial monitoring and automation systems for manufacturing and logistics customers across Europe and North America.
+
+The company has offices in Germany, the United States, and the United Kingdom. Its principal functions include Engineering, Operations, Procurement, Finance, Information Technology, Customer Support, Sales, and Human Resources.
+
+These documents are synthetic and were created only for research and benchmarking. Where a regional addendum explicitly modifies a global policy, it applies only within its stated scope. Requirements that do not conflict must both be followed.

@@ -1,0 +1,8 @@
+# Supplier Qualification Policy
+Document ID: PROC-012 | Version: 1.0 | Status: Approved | Effective: 1 January 2026
+
+New suppliers must undergo identity, financial, and sanctions screening before onboarding. Suppliers accessing Nordstar systems, processing company or customer data, or supporting critical operations require a risk assessment before approval.
+
+The assessment considers information security, privacy, business continuity, financial stability, geographic exposure, and subcontractor use. High-risk suppliers require Procurement approval and sign-off from relevant control owners, such as Information Security or Data Protection.
+
+Qualification does not replace contract review. Material changes to services, ownership, data access, or subcontractors trigger reassessment. Procurement maintains the supplier record and most recent review date.

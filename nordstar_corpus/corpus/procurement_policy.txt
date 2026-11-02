@@ -1,0 +1,20 @@
+# Procurement and Purchase Approval Policy
+Document ID: PROC-001 | Version: 1.0 | Status: Approved | Effective: 1 January 2026
+
+## Standard purchase approvals
+Approvals are based on total purchase value:
+- Below EUR 1,000: direct manager approval.
+- EUR 1,000 to EUR 10,000 inclusive: department manager approval.
+- Above EUR 10,000: department manager and Procurement approval.
+- Above EUR 50,000: department manager, Procurement, and Finance approval.
+- Above EUR 100,000: Executive Committee approval is also required.
+
+Where multiple thresholds apply, all applicable approvals must be obtained before committing to the purchase. Thresholds apply to total purchase value, not individual invoice amounts.
+
+## Emergency purchases
+An emergency purchase may be made before the standard approval process is complete when immediate action is necessary to protect business continuity, safety, or critical operations.
+
+The responsible employee must document the reason for the emergency, the purchase amount, the supplier, and the circumstances requiring urgent action. Emergency purchases must be documented within five business days of the purchase. Outstanding approvals must then be obtained in accordance with the applicable thresholds.
+
+## Record keeping
+Purchase requests, approvals, supplier quotations, invoices, and emergency-purchase documentation must be retained in the designated procurement record system.

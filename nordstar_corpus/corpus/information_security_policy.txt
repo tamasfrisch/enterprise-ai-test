@@ -1,0 +1,8 @@
+# Information Security Policy
+Document ID: SEC-006 | Version: 1.0 | Status: Approved | Effective: 1 January 2026
+
+Employees must use multifactor authentication for company accounts where supported and must never share passwords or authentication codes. Company devices must use approved endpoint protection and receive security updates under IT standards.
+
+Access must be limited to what users need for their jobs. Suspected phishing, lost devices, unauthorized access, or disclosure of company information must be reported to IT Security immediately through the security incident channel.
+
+Sensitive company data must not be copied to personal email, unapproved file-sharing services, or public AI tools. Exceptions require written approval from Information Security and the relevant data owner. Employees must lock screens when away and use approved VPN or zero-trust access controls when required.

@@ -1,0 +1,8 @@
+# Project Change Control Policy
+Document ID: PM-018 | Version: 1.0 | Status: Approved | Effective: 1 January 2026
+
+A change request is required for material changes to approved scope, budget, milestones, or delivery assumptions. It must describe the change, rationale, cost and schedule impact, risks, and affected stakeholders.
+
+The project manager records the request in the change log and assesses impact with workstream owners. Budget increases require sponsor and Finance review. Changes beyond the sponsor's delegated authority are escalated to the appropriate governance committee.
+
+Until approval is recorded, a proposed change remains a proposal and must not be represented as approved. Reports must distinguish actuals, approved budget, forecast, and unapproved potential costs.

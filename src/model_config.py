@@ -1,0 +1,4 @@
+MODEL = "gpt-6-luna"
+REASONING_EFFORT = "none"
+MAX_OUTPUT_TOKENS = 1000
+TOP_K = 5

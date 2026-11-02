@@ -1,0 +1,8 @@
+# Enterprise AI Usage Standard
+Document ID: AI-008 | Version: 1.0 | Status: Approved | Effective: 1 March 2026
+
+Employees may use company-approved AI services for permitted business tasks. Restricted data and credentials must not be submitted to an AI service. Confidential data may be submitted only to an approved enterprise environment when the data owner and Information Security have authorized the use case.
+
+AI-generated content must be reviewed by a qualified employee before material business decisions, customer communications, legal commitments, or production changes. Employees remain accountable for outputs and must verify claims against authoritative sources.
+
+AI tools must not make final employment, credit, safety-critical, or other high-impact decisions without a separately approved governance process. Do not treat generated citations as proof unless sources have been checked. Unapproved browser extensions and shadow AI services must not be used with company data.

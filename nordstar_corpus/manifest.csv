@@ -1,0 +1,22 @@
+﻿filename,purpose
+company_overview.txt,Company background and interpretation rules
+procurement_policy.txt,Purchase approval thresholds and emergency purchases; TASK-01 and TASK-02
+travel_expenses_policy.txt,Travel booking and expense reimbursement
+contract_approval_policy.txt,Contract review and signing authority
+remote_work_policy.txt,Global remote-work rules
+regional_remote_work_us.txt,US remote-work addendum
+information_security_policy.txt,Security controls and incident reporting
+data_classification_policy.txt,Information classification and handling
+ai_usage_standard.txt,Enterprise AI usage and shadow AI restrictions
+incident_management_policy.txt,Security incident response
+customer_support_policy.txt,Support ticket requirements and internal targets
+service_level_agreement.txt,Standard contractual response targets
+supplier_qualification_policy.txt,Supplier screening and risk assessment
+customer_data_processing_standard.txt,Customer data processing safeguards
+product_portfolio.txt,Fictional product descriptions
+warranty_and_maintenance_policy.txt,Warranty and maintenance rules
+project_orion_brief.txt,Orion approved budget and pilot target
+project_orion_status_report.txt,"Orion status, schedule delay, and possible cost; TASK-03"
+change_control_policy.txt,Project change governance
+data_quality_incident_postmortem.txt,Orion data-quality incident and corrective actions
+business_continuity_policy.txt,Business continuity planning

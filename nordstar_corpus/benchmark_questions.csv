@@ -1,0 +1,4 @@
+﻿question_id,question,expected_facts,source_document
+TASK-01,Who must approve a purchase worth EUR 75000 under Nordstar's procurement policy?,"Department manager, Procurement, and Finance approval are required",procurement_policy.txt
+TASK-02,"What documentation is required after an emergency purchase, and when must it be provided?","Document the reason for the emergency, purchase amount, supplier, and circumstances requiring urgency; within five business days",procurement_policy.txt
+TASK-03,"What is the target date for the Project Orion pilot, and what is its current status?",Pilot target is 30 September 2026; project status is AMBER; analytics is three weeks behind due to data-quality issues,project_orion_brief.txt;project_orion_status_report.txt

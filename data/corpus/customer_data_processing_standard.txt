@@ -1,0 +1,8 @@
+# Customer Data Processing Standard
+Document ID: DPO-013 | Version: 1.0 | Status: Approved | Effective: 1 January 2026
+
+Customer data may be processed only for documented business purposes and under an approved contract or other valid authorization. Access must be limited to authorized personnel and systems. Data exports must use approved secure transfer mechanisms.
+
+Before a new service processes personal data for a customer, the business owner must involve Data Protection and Legal to assess contractual requirements and whether a data processing agreement is needed. Production customer data must not be used in testing unless approved safeguards and authorization are in place.
+
+Suspected unauthorized access, loss, or disclosure must be reported immediately under the Security Incident Management Policy. Retention and deletion follow the applicable contract and approved retention schedule.

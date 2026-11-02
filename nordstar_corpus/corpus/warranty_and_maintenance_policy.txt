@@ -1,0 +1,8 @@
+# Warranty and Maintenance Policy
+Document ID: SVC-015 | Version: 1.0 | Status: Approved | Effective: 1 January 2026
+
+Standard hardware warranty is 12 months from customer acceptance unless the signed customer contract specifies otherwise. Warranty covers defects in materials and workmanship under normal use; misuse, unauthorized modification, or unsupported environmental conditions are excluded.
+
+Preventive maintenance schedules depend on product type, operating environment, and service package. Maintenance visits must be recorded in ServiceLink. Staff must not promise a warranty extension or repair completion date without confirmation from the service owner and applicable contract.
+
+Where a contract conflicts with this policy, the signed contract governs the customer-specific commitment.

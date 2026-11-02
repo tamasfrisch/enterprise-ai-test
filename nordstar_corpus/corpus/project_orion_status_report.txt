@@ -1,0 +1,11 @@
+# Project Orion — Status Report
+Document ID: PM-017 | Version: 1.0 | Status date: 15 September 2026
+Overall status: AMBER
+
+Project Orion remains AMBER. The pilot target remains 30 September 2026, but the analytics workstream is three weeks behind plan because of data-quality issues in source telemetry.
+
+The approved 2026 budget is EUR 4.2 million. The team identified a possible additional cost of EUR 350,000, subject to validation. This is a potential forecast increase, not an approved budget change.
+
+The data team is profiling source records and coordinating remediation with site teams. The project manager will update the schedule forecast after the next data-quality review. The sponsor and Finance must be informed if the additional cost is confirmed or the pilot target is at risk.
+
+Use the status date above when describing this report. Do not describe the possible EUR 350,000 as approved expenditure unless a later approved change record confirms it.

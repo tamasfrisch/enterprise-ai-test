@@ -1,0 +1,8 @@
+# Business Continuity Policy
+Document ID: OPS-020 | Version: 1.0 | Status: Approved | Effective: 1 January 2026
+
+Business owners must identify critical services, dependencies, recovery priorities, and minimum operating requirements. Each critical service must have a documented continuity plan reviewed annually and after major operational changes.
+
+During a disruption, the incident lead coordinates response, records decisions, and updates affected stakeholders. Recovery objectives are set by the service owner and approved through the continuity process; this policy does not define a single recovery time for every system.
+
+Critical suppliers and data dependencies must be included in continuity planning. Lessons from exercises and incidents must be assigned to owners with target completion dates.

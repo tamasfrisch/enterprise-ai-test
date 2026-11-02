@@ -1,0 +1,8 @@
+# Project Orion — Project Brief
+Document ID: PM-016 | Version: 1.0 | Status: Approved | Date: 15 January 2026
+
+Project Orion integrates operational telemetry from selected manufacturing sites into Nordstar's Atlas Analytics platform. The approved 2026 project budget is EUR 4.2 million.
+
+The pilot target date is 30 September 2026. The pilot validates data ingestion, data-quality monitoring, and operational dashboards at initial participating sites. The Chief Operating Officer is the project sponsor. The project manager maintains the plan, risks, dependencies, and status reports.
+
+Any forecast increase above the approved budget must be raised with the sponsor and Finance. Scope or target-date changes must be documented in the change log and approved through project governance.

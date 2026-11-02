@@ -1,0 +1,11 @@
+﻿question_id,criterion_id,criterion,weight
+TASK-01,C1,Identifies department manager approval,0.3333
+TASK-01,C2,Identifies Procurement approval,0.3333
+TASK-01,C3,Identifies Finance approval,0.3334
+TASK-02,C1,States reason for emergency must be documented,0.2500
+TASK-02,C2,States purchase amount must be documented,0.2500
+TASK-02,C3,States supplier and circumstances requiring urgency must be documented,0.2500
+TASK-02,C4,States deadline is within five business days,0.2500
+TASK-03,C1,States pilot target date is 30 September 2026,0.3333
+TASK-03,C2,States project status is AMBER,0.3333
+TASK-03,C3,States analytics is three weeks behind due to data-quality issues,0.3334

@@ -1,0 +1,12 @@
+# Product Portfolio Overview
+Document ID: PROD-014 | Version: 1.0 | Status: Approved | Effective: 1 January 2026
+
+Nordstar's fictional products:
+- Sentinel Monitor: industrial equipment monitoring and alerting.
+- FlowControl Edge: edge gateway for collecting equipment telemetry.
+- Atlas Analytics: analytics and reporting platform for operational data.
+- ServiceLink: customer support and maintenance coordination portal.
+
+Sentinel Monitor detects configured thresholds and sends alerts. FlowControl Edge collects telemetry from compatible devices and forwards approved data to platform services. Atlas Analytics provides dashboards and trend analysis; results depend on source-data quality. ServiceLink manages support requests, service schedules, and customer-visible case updates.
+
+Availability, compatibility, warranty, and support commitments must be checked against current product documentation and the customer's signed contract.

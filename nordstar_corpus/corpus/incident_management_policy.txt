@@ -1,0 +1,8 @@
+# Security Incident Management Policy
+Document ID: SEC-009 | Version: 1.0 | Status: Approved | Effective: 1 January 2026
+
+Employees must report suspected security incidents immediately through the IT Security incident channel. Examples include suspected account compromise, malware, accidental disclosure, lost devices, or unusual privileged access.
+
+Security Operations records the report, assigns severity, preserves evidence, and coordinates containment. High-severity incidents are escalated to the Chief Information Security Officer and relevant business owner without delay. Employees must not independently delete logs or attempt destructive remediation unless directed by the incident lead.
+
+The incident lead maintains a timeline, decisions, affected systems, and communications. After containment and recovery, a post-incident review identifies root causes, corrective actions, owners, and due dates.
